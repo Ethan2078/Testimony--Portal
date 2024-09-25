@@ -1,0 +1,62 @@
+<!doctype html><html><head><noscript id="jss-insertion-point"></noscript><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Preply</title><link rel="preconnect" href="https://static.preply.com"/><link rel="preload" href="https://static.preply.com/ds/global.css" as="style"/><link rel="preload" href="https://static.preply.com/ds/fonts/en/PreplyInter.var.woff2" as="font" type="font/woff2" crossorigin/><link rel="stylesheet" href="https://static.preply.com/ds/global.css"/><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WX3CT5');
+
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga('create', 'UA-35499549-6', 'auto');</script><script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;
+        s.src='https://widget.intercom.io/widget/d97m90f7';
+        var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script><script>window.locales = {
+            'ua': 'ua',
+            'ar': 'ar',
+            'de': 'de',
+            'en': 'en',
+            'es': 'es',
+            'fr': 'fr',
+            'id': 'id',
+            'it': 'it',
+            'ja': 'ja',
+            'ko': 'ko',
+            'nl': 'nl',
+            'pl': 'pl',
+            'pt': 'pt',
+            'ro': 'ro',
+            'ru': 'ru',
+            'tr': 'tr',
+            'zh': 'zh',
+            'sv': 'sv',
+            'th': 'th',
+            'cs': 'cs',
+            'tw': 'tw',
+            'hk': 'hk',
+        }
+        window.localesReactIntl = {
+            'ua': 'uk', // change ua for uk
+            'ar': 'ar',
+            'de': 'de',
+            'en': 'en',
+            'es': 'es',
+            'fr': 'fr',
+            'id': 'id',
+            'it': 'it',
+            'ja': 'ja',
+            'ko': 'ko',
+            'nl': 'nl',
+            'pl': 'pl',
+            'pt': 'pt',
+            'ro': 'ro',
+            'ru': 'ru',
+            'tr': 'tr',
+            'zh': 'zh',
+            'sv': 'sv',
+            'th': 'th',
+            'cs': 'cs',
+            'tw': 'zh-TW',
+            'hk': 'zh-HK',
+        }
+        var locale = window.location.pathname.split('/')[1];
+        window.localCommon = locales[locale] || 'en';
+        window.localReactIntl = localesReactIntl[locale] || 'en';
+        // at the time of this writing, all the react intl locales we use seem to match https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+        document.documentElement.lang = window.localReactIntl;</script><link rel="icon" href="https://static.preply.com/ds/icons/rebrand-23-v0/favicon.ico" sizes="any"/><link rel="icon" href="https://static.preply.com/ds/icons/rebrand-23-v0/favicon.svg" type="image/svg+xml"/><link rel="apple-touch-icon" href="https://static.preply.com/ds/icons/rebrand-23-v0/icon-180.png"/><link rel="manifest" href="https://static.preply.com/ds/icons/rebrand-23-v0/web.manifest.json"/><meta name="theme-color" content="#ffffff"/><script defer="defer" src="https://static.preply.com/space/video.88b2edf1b95cc09defee.js"></script></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WX3CT5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="root" class="root-wrap"></div></body></html>
